@@ -1,0 +1,23 @@
+*{
+    background-color: lightgray;
+    color: black;
+    font-family: sans-serif, "Times New Roman", Monospace;
+}
+
+img {
+    width: 200px;
+    height:auto
+}
+
+p {
+    font-size: 28px;
+}
+
+ul li {
+    color:brown
+
+}
+
+li {
+    color: bisque;
+}
